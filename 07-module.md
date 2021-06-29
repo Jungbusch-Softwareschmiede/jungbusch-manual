@@ -442,6 +442,7 @@ ForceLogoffWhenHourExpire | ...\\Local Policies\\Security Options\\Network secur
 - Benötigt Admin-Rechte: Nein
 
 Das `Script`-Modul ist ein besonderes Modul im Jungbusch-Auditorium. Grundlegend bietet es folgende Funktionen an:
+
 - Scripting mittels ECMAScript 5.1 Syntax
 - Zugriff auf alle anderen Auditorium-Module
 - Zugriff auf alle in der Audit-Config definierten Variablen
